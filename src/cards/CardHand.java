@@ -13,6 +13,7 @@ import javax.swing.JPanel;
  * Testing again
  * Test 4
  * Final test, merge back to master
+ * New Head
  * @author rdpalmer
  */
 public class CardHand {
