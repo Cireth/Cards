@@ -12,6 +12,7 @@ import javax.swing.JPanel;
  *Testing GIT
  * Testing again
  * Test 4
+ * Final test, merge back to master
  * @author rdpalmer
  */
 public class CardHand {
